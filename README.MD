@@ -18,6 +18,6 @@
 <br />
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wb11G&theme=github-light&border_radius=10&fire=DD0000&background=FFFFFF00&border=FFFFFF00&ring=DD0000&stroke=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wb11G&theme=github-light&border_radius=10&fire=DD0000&background=FFFFFF00&border=FFFFFF00&ring=DD0000&stroke=DD2727&sideLabels=0DDD09&currStreakLabel=DD2727)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Wb=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

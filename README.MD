@@ -1,10 +1,10 @@
-# Hi there, I'm Wahyu Abdul Rahmat👋 
+# Hi there, I'm Yoga trimulya👋
 
 ## I'm a Front End Developer!!
 
-- 🔭 Live is code
+- 🔭 jalan ninjaku adalah ngoding
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn more about web
+- 🥅 2022 Goals: Learn more about web
 
 ### Languages and Tools:
 
@@ -18,7 +18,7 @@
 <br />
 
 ### :fire: My Stats :
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wb11G&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wb11G&theme=github-light&border_radius=10&fire=DD0000&background=FFFFFF00&border=FFFFFF00&ring=DD0000&stroke=DD2727&sideLabels=0DDD09&currStreakLabel=DD2727)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wb11G&show_icons=true&theme=vue)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yogatrimulya&theme=github-light&border_radius=10&fire=DD0000&background=FFFFFF00&border=FFFFFF00&ring=DD0000&stroke=DD2727&sideLabels=0DDD09&currStreakLabel=DD2727)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogatrimulya&show_icons=true&theme=vue)

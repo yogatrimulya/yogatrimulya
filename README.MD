@@ -2,7 +2,7 @@
 
 ## I'm a Front End Developer!!
 
-- 🔭 jalan ninjaku adalah ngoding.
+- 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web
 

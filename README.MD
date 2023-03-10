@@ -4,7 +4,7 @@
 
 - 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web
+- 🥅 2023 Goals: Learn more about web
 
 ### Languages and Tools:
 
